@@ -104,4 +104,4 @@ Run basic SQL queries to ensure the data matches the expected structure.
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/YourGitHubRepo/Fitness_Database_Project.git  
+   git clone https://github.com/millie1310/Fitness_Database_Project.git  
