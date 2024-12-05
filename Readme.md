@@ -95,7 +95,8 @@ Run basic SQL queries to ensure the data matches the expected structure.
 ---
 
 ### 4️⃣ **Reference the ERD**  
-- Refer to the **Entity Relationship Diagram (ERD)** in the `ERD_Fitness_Database` folder.  
+- Refer to the **Entity Relationship Diagram (ERD)** below:
+ ![Image](https://github.com/Millie1310/Database_Design/blob/main/Database/Mitali_ERD.png)
 - The diagram shows relationships between tables and ensures proper implementation.  
 
 ---
