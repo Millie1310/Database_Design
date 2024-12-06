@@ -14,7 +14,7 @@ Welcome! This README provides **step-by-step instructions** for setting up and w
    - [3️⃣ Write DDL and DML Scripts](#3️⃣-write-ddl-and-dml-scripts)  
    - [4️⃣ Reference the ERD](#4️⃣-reference-the-erd)  
 6. [⚙️ Installation Instructions](#️-installation-instructions)  
-7. [📝 Notes](#-notes)  
+7. [📝 Question From My Data](#questions-from-my-data)  
 
 ---
 
@@ -89,8 +89,8 @@ Run basic SQL queries to ensure the data matches the expected structure.
 - Use [DDL_FinalProject.sql](https://github.com/Millie1310/Database_Design/blob/main/DDL/DDL_FinalProject.sql) for quick implementation or [DDL.ipynb](https://github.com/Millie1310/Database_Design/blob/main/DDL/DDL.ipynb) for detailed explanations.  
 
 #### 🛠️ **DML (Data Manipulation Language):**  
-- Refer to the folder `DML`.  
-- Use `DML.sql` for direct scripts or `DML.ipynb` for step-by-step details.  
+- Refer to the folder [DML](https://github.com/Millie1310/Database_Design/tree/main/DML).  
+- Use [DML.sql](https://github.com/Millie1310/Database_Design/blob/main/DML/DML.sql) for direct scripts or [DML.ipynb](https://github.com/Millie1310/Database_Design/blob/main/DML/DML.ipynb) for step-by-step details.  
 
 ---
 
@@ -106,3 +106,7 @@ Run basic SQL queries to ensure the data matches the expected structure.
 1. **Clone the Repository:**  
    ```bash  
    git clone https://github.com/millie1310/Fitness_Database_Project.git  
+
+----
+
+## Questions From My Data
